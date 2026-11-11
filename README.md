@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shiva Bairi 👋
 
-<!--
-**shivabairy/shivabairy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Full Stack Developer | Problem Solver
 
-Here are some ideas to get you started:
+- 🎓 CSE Undergraduate at SNIST
+- 💻 Interested in Full Stack Development
+- 🚀 Building scalable web applications
+- 🧠 Solved 2000+ DSA problems
+- 🏆 LeetCode Peak Rating: 1924
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+C++ | Java | JavaScript | React.js
+Node.js | Express.js | MongoDB | Redis
+HTML | CSS | Tailwind CSS | SQL
+
+### Featured Projects
+- Doctor Appointment Booking System
+- Scalable URL Shortener with QR Analytics
+- DSA Practice Repository
+
+### Connect With Me
+- LinkedIn: YOUR_LINKEDIN_URL
+- GitHub: https://github.com/shivabairy
+- LeetCode: YOUR_LEETCODE_URL
