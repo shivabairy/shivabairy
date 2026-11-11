@@ -19,6 +19,6 @@ HTML | CSS | Tailwind CSS | SQL
 - DSA Practice Repository
 
 ### Connect With Me
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/shiva-bairi-bs45/
 - GitHub: https://github.com/shivabairy
-- LeetCode: YOUR_LEETCODE_URL
+- LeetCode: https://leetcode.com/u/SHIVA_BAIRI/
